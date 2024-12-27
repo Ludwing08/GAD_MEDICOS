@@ -1,0 +1,1 @@
+export const Colores = { primary: '#0c9869', secondary: '#ff6663' };
